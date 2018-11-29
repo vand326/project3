@@ -1,14 +1,14 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Times New Roman", Times, serif;
   line-height: 1.5;
   padding: 30px 20px;
   background-color: #DFBEDB;
 }
 
 h1 {
-  color: red;
+  color: mediumvioletred;
   padding: 20px 0px 10px 0px;
 }
 .zoom {
