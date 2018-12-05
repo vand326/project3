@@ -55,11 +55,8 @@ nav li {
   padding-top: 5px;
 }
 nav a {
-  color: #FFDD57
+  color: #FFFB38
   text-decoration: none;
   text-transform: uppercase;
   font-size: 13px;
-}
-nav a :hover {
-  color: #000
 }
